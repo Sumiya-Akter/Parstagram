@@ -2,7 +2,7 @@
 //  CommentCell.swift
 //  Instagram
 //
-//  Created by Abrar Mahi on 3/17/21.
+//  Created by Sumiya Akter on 3/17/21.
 //
 
 import UIKit

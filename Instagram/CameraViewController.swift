@@ -2,7 +2,7 @@
 //  CameraViewController.swift
 //  Instagram
 //
-//  Created by Abrar Mahi on 3/9/21.
+//  Created by Sumiya Akter on 3/9/21.
 //
 
 import UIKit

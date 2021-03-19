@@ -100,9 +100,6 @@
                                             <subviews>
                                                 <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="LBr-yR-UBF">
                                                     <rect key="frame" x="8" y="8" width="398" height="494"/>
-                                                    <constraints>
-                                                        <constraint firstAttribute="width" secondItem="LBr-yR-UBF" secondAttribute="height" multiplier="199:247" id="kGX-mM-xmt"/>
-                                                    </constraints>
                                                 </imageView>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rut-RC-xhU">
                                                     <rect key="frame" x="28" y="510" width="0.0" height="0.0"/>

@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Instagram
 //
-//  Created by Abrar Mahi on 3/8/21.
+//  Created by Sumiya Akter on 3/8/21.
 //
 
 import UIKit

@@ -2,7 +2,7 @@
 //  PostCell.swift
 //  Instagram
 //
-//  Created by Abrar Mahi on 3/14/21.
+//  Created by Sumiya Akter on 3/14/21.
 //
 
 import UIKit

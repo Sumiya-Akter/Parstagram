@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Instagram
 //
-//  Created by Abrar Mahi on 3/8/21.
+//  Created by Sumiya Akter on 3/8/21.
 //
 
 import UIKit
@@ -15,8 +15,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         let parseConfig = ParseClientConfiguration {
-                    $0.applicationId = "SIiyGKKO329DkVDFIzL9u3Bie5Z3PIYYS1f68F8B" // <- UPDATE
-                    $0.clientKey = "YEOk1SpDlguFUghKFFrsEQPATw0wc56nkeaOd7U3" // <- UPDATE
+                    $0.applicationId = "PA4dgdSobBhVCYLX0mWxTHrQxqbGlxNNeADU3peK" // <- UPDATE
+                    $0.clientKey = "BLbwrZJWHCK3ryOI22aGN4bxd902X35nZ8oi7bDx" // <- UPDATE
                     $0.server = "https://parseapi.back4app.com"
             }
             Parse.initialize(with: parseConfig)
