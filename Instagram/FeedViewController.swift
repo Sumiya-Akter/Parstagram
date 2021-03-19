@@ -29,7 +29,7 @@ class FeedViewController: UIViewController, UITableViewDelegate, UITableViewData
         tableView.delegate = self
         tableView.dataSource = self
         
-        tableView.keyboardDismissMode = .interactive
+        tableView.keyboardDismissMode = .interactive 
         
         let center = NotificationCenter.default
         center.addObserver(self, selector: #selector(KeybaordWillBeHidden(note:)), name: UIResponder.keyboardWillHideNotification, object: nil)
